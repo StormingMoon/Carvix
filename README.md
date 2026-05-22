@@ -7,6 +7,10 @@ Carvix is specialized for carving specific data and unique dlls and jars and ass
 ```cmd
 Carvix.py yourdmp.dmp -o carved_output --keep-rejects --extract-all-jar-entries
 ```
+# Supported formats
+Jar
+DLL
+PNG,JPG,WEBP and other media 
 # Indevelopment
 One thing this wont carve outright is encrypted java classes ex (Provided.Space)
 also all pull requests and issues are encouraged
